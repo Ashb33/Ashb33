@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Ashb33/Ashb33/blob/e4bc3f0e5ca2ab600bdf3df9f2bf361177afbda6/header.png)](https://github.com/Ashb33)
-
+<!--
 <p align=center>
   <a href="https://github.com/Ashb33">
     <img src="https://badges.pufler.dev/visits/Ashb33/Ashb33?color=pink&logo=github">
@@ -8,7 +8,7 @@
     <img src="https://badges.pufler.dev/repos/Ashb33?color=pink&logo=github">
   </a>
 </p>
-
+-->
 <h2>About Me</h2>
 
 - 🌱 I’m just starting my web dev learning journey with The Odin Project. Hoping to become a Front-End dev and possibly a Full-Stack dev in the future!
