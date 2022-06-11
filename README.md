@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m just starting my web dev learning journey with The Odin Project. Hoping to become a Front-End dev and possible Full-Stack dev in the future!
+🌱 I’m just starting my web dev learning journey with The Odin Project. Hoping to become a Front-End dev and possible Full-Stack dev in the future! /n
 😄 Pronouns: She/Her
