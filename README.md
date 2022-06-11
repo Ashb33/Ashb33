@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashb33&show_icons=true&theme=synthwave&border_radius=25)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashb33&theme=synthwave&layout=compact&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashb33&repo=github-readme-stats" />
-</a>
