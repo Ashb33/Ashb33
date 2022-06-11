@@ -4,7 +4,7 @@
   <a href="https://github.com/Ashb33">
     <img src="https://badges.pufler.dev/visits/Ashb33/Ashb33?color=pink&logo=github">
   </a>
-  <a href="https://github.com/Ashb33?tab=repositories">
+  <a href="https://github.com/Ashb33?tab=Repositories">
     <img src="https://badges.pufler.dev/repos/Ashb33?color=pink&logo=github">
   </a>
 </p>
