@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/Ashb33/Ashb33/blob/125d10268137e829adf36d6413185e0665b646c8/header.png)](https://github.com/Ashb33)
 
 ### Hey there! 👋
 
